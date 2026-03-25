@@ -174,7 +174,7 @@ If you use AdderBoard in your research, please cite:
 ```bibtex
 @misc{papailiopoulos2025adderboard,
   author       = {Papailiopoulos, Dimitris},
-  title        = {{AdderBoard}: The Race to the Smallest Addition Transformer},
+  title        = {{AdderBoard}: A Benchmark for Minimum-Parameter Addition Transformers},
   year         = {2025},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/anadim/AdderBoard}},
