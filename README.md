@@ -172,10 +172,10 @@ Transformers solve these using attention (for alignment), MLPs (for arithmetic),
 If you use AdderBoard in your research, please cite:
 
 ```bibtex
-@misc{papailiopoulos2025adderboard,
+@misc{papailiopoulos2026adderboard,
   author       = {Papailiopoulos, Dimitris},
   title        = {{AdderBoard}: A Benchmark for Minimum-Parameter Addition Transformers},
-  year         = {2025},
+  year         = {2026},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/anadim/AdderBoard}},
   note         = {Community benchmark for minimal transformers that perform 10-digit addition}
